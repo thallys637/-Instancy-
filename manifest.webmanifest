@@ -1,0 +1,8 @@
+{
+  "name": "Instancy 2.0",
+  "short_name": "Instancy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10091f",
+  "theme_color": "#10091f"
+}
